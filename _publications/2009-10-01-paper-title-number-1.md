@@ -10,6 +10,6 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about UAV-USV-UUV Networks for Cooperative Target Hunting.
 
-[Download paper here](paper1.pdf)
+[Download paper here](https://ww-fairy.github.io/files/paper1.pdf)
 
 Recommended citation: Wei W, Wang J, Fang Z, Chen J, Ren Y, Dong Y. 3U: Joint design of UAV­USV-AUV Networks for Cooperative Target Hunting [J]. IEEE Transactions on Vehicular Technology, 2023, 72(3): 4085­4090.
