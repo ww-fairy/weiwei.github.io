@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In this paper, a joint designof the unmanned aerial/surface/underwater vehicle (UAV-USV-UUV) network, also referred to as 3U network, is proposed for cooperative underwater target hunting. We first introduce the advantages of this 3U heterogeneous system in multi-task cooperation and portray its system model. Moreover, we propose an energy-oriented target hunting model by jointly optimizing the UAV’s position, the UUV’s trajectory as well as their inter-connectivity. Finally, DQN algorithms are conceived to solve the proposed target hunting problem. Simulation results show the proposed scheme is suitable for underwater target hunting with a high success rate considering a trade-off between the system energy consumption and inter-connectivity.'
 date: 2022-11-09
-venue: ' IEEE Transactions on Vehicular Technology'
+venue: ' IEEE Transactions on Vehicular Technology' 
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9944188'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
