@@ -6,7 +6,7 @@ excerpt: 'In this paper, a joint designof the unmanned aerial/surface/underwater
 date: 2022-11-09
 venue: ' IEEE Transactions on Vehicular Technology' 
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9944188'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Wei W, Wang J, Fang Z, Chen J, Ren Y, Dong Y. 3U: Joint design of UAV­USV-AUV Networks for Cooperative Target Hunting [J]. IEEE Transactions on Vehicular Technology, 2023, 72(3): 4085-­4090.'
 ---
 This paper is about UAV-USV-UUV Networks for Cooperative Target Hunting.
 
