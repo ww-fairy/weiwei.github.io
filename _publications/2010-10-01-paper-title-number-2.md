@@ -10,6 +10,6 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about UAV-USV-UUV Networks for Cooperative Target Hunting.
 
-[Download paper here](https://ww-fairy.github.io/files/paper3.pdf)
+[Download paper here](https://ww-fairy.github.io/files/Wei 等 - 2023 - Differential Game-Based Deep Reinforcement Learnin.pdf)
 
-Recommended citation: Wei W, Wang J, Fang Z, Chen J, Ren Y, Dong Y. 3U: Joint design of UAV­USV-AUV Networks for Cooperative Target Hunting [J]. IEEE Transactions on Vehicular Technology, 2023, 72(3): 4085-­4090.
+Recommended citation: W. Wei, J. Wang, J. Du, Z. Fang, Y. Ren and C. L. P. Chen, "Differential Game-Based Deep Reinforcement Learning in Underwater Target Hunting Task," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3325580.
