@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wei Wei"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD candicate"
+  bio              : "PhD student"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=q9Jr1lgAAAAJ&hl=zh-CN&oi=sra"
-  email            :  weiwei2020214906@gmail.com
+  email            : "weiwei2020214906@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Wei-Wei-362" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
