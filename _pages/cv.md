@@ -17,15 +17,14 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Intern
+  * Tianyijiaotong Company
+  * Duties included: Autonomous driving algorithms
+  * Supervisor: Professor Zhenhua Guo
+* 2021.12-2022.08: Intern
+  * Space star technology co., LTD （航天恒星科技有限公司）
+  * Duties included: Space-air-ground algorithms
+  * Supervisor: Professor Shichao Jing
   
 Skills
 ======
