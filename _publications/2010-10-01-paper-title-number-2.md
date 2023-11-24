@@ -6,7 +6,7 @@ excerpt: 'To meet requirements for real-time trajectory scheduling and distribut
 date: 2023-10-27
 venue: '  IEEE Transactions on Neural Networks and Learning Systems ' 
 paperurl: 'https://ieeexplore-ieee-org.eproxy.lib.hku.hk/abstract/document/10298247'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'W. Wei, J. Wang, J. Du, Z. Fang, Y. Ren and C. L. P. Chen, "Differential Game-Based Deep Reinforcement Learning in Underwater Target Hunting Task," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3325580.'
 ---
 This paper is about UAV-USV-UUV Networks for Cooperative Target Hunting.
 
